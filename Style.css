@@ -11,4 +11,8 @@ header,footer{
   color:#ffffff;
   padding:1rem;
 }
+header a,footer a{
+  color: #ffffff;
+  text-decoration: none;
+}
 
