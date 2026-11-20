@@ -6,8 +6,9 @@ body {
 }
 main{
 }
-header{
-  background-color: #1f3a5f;
-  color:white;
+header,footer{
+  background-color:#1f3a5f;
+  color:#ffffff;
+  padding:1rem;
 }
 
