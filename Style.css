@@ -4,10 +4,6 @@ body {
   background-color: #f7f3ea;
   color: #222222;
   padding: 40px;
-  a {
-    color:#1f5f8b;
-  text-decoration: none;
-}
 }
 header,footer{
   border: 3px solid black;
