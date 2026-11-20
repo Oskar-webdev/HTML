@@ -12,7 +12,9 @@ header,footer{
   background: #1f3a5f;
   color:white;
   text-decoration: none;
-  a:hover {
   color: #c2410c;
-}
+  width:20rem;
+  padding:1rem;
+  background:#f7f3ea;
+  margin-bottom:1.5rem;
 }
