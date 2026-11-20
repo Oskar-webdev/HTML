@@ -1,6 +1,13 @@
 body {
-  font-family: sans-serif;
+  font-family: verdana,sans-serif;
+  font-size:1.125rem;
   background-color: #f7f3ea;
   color: #222222;
   padding: 40px;
+}
+header,footer{
+  font-family:georgia,sans-serif;
+  background:#1f3a5f;
+  color:white;
+  text-decoration: none;
 }
