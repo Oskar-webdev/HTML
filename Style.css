@@ -3,6 +3,11 @@ body {
   font-size:1.125rem;
   background-color: #f7f3ea;
   color: #222222;
-  padding: 40px;
 }
+main{
 }
+header{
+  background-color: #1f3a5f;
+  color:white;
+}
+
